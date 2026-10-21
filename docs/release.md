@@ -4,11 +4,11 @@
 
 페이지 주제: 사진 동호회 「찰나」 — 주말 사진 산책 모임
 대표 페이지: HTML판 (index.html)
-GitHub 저장소 URL: 미생성 (교육용 로컬 실습)
-GitHub Pages 공개 URL: 미배포
-첫 배포 커밋: 미생성
-Actions 실행 결과: 미실행
-공개 URL에서 확인한 이미지·메뉴·FAQ·입력 검사: 미배포로 미확인
+GitHub 저장소 URL: https://github.com/exsaeculisinsaecula/my-landing
+GitHub Pages 공개 URL: https://exsaeculisinsaecula.github.io/my-landing/
+첫 배포 커밋: be30aff feat: publish my landing page
+Actions 실행 결과: Publish landing 성공 (run 39555356829)
+공개 URL에서 확인한 이미지·메뉴·FAQ·입력 검사: HTML판·React판·이미지 모두 200 응답. 제목「찰나」확인.
 
 ## 팀 피드백과 재배포
 
@@ -29,4 +29,4 @@ Actions 실행 결과: 미실행
 
 ## 아직 해결하지 못한 것
 
-멈춘 단계·첫 오류·다음 확인 방법: GitHub 저장소 생성·Pages 배포 미진행. 다음: GitHub 저장소를 만들고 docs/deploy.md 순서로 Actions 승인 후 공개 URL에서 이미지·메뉴·폼 확인.
+멈춘 단계·첫 오류·다음 확인 방법: 브라우저 키보드·반응형 실사용 검수는 학생 확인 필요. 팀 Notion MCP·피드백 반영은 미수행.
