@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-label="카메라 삽화">
+  <rect width="600" height="420" fill="#f7f4ee"/>
+  <rect x="120" y="150" width="360" height="200" rx="24" fill="#1a2332"/>
+  <rect x="200" y="110" width="120" height="50" rx="12" fill="#1a2332"/>
+  <circle cx="300" cy="250" r="70" fill="#c45c26"/>
+  <circle cx="300" cy="250" r="48" fill="#f7f4ee"/>
+  <circle cx="300" cy="250" r="28" fill="#1a2332"/>
+  <circle cx="430" cy="190" r="14" fill="#c45c26"/>
+  <rect x="150" y="180" width="36" height="14" rx="6" fill="#c45c26"/>
+  <rect x="230" y="370" width="140" height="12" rx="6" fill="#ccd8ca"/>
+  <rect x="260" y="390" width="80" height="10" rx="5" fill="#ccd8ca"/>
+</svg>
